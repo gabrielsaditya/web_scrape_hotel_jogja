@@ -1,3 +1,5 @@
+BERANGKAT DARI KEBUTUHAN PENBUATAN APLIKASI TENTANG HOTEL, SAYA MEMBUAT SEBUAH ETL SEDERHANA UNTUK SCRAPING DATA HOTEL DAN MENYIMPANNYA DALAM FILE EXCEL, DIKARENAKAN SEBENARNYA BISA EXTRACT DATA DARI GOOGLE MAPS API TAPI MEMERLUKAN PENDAFTARAN CREDIT CARD DI GCP RIBET DAN AKHIRNYA SAYA MEMBUAT SOLUSI INI.
+
 📌 Deskripsi
 Project ini bertujuan untuk mengotomatisasi proses ekstraksi data dari website listing hotel menggunakan Selenium, lalu menyimpannya ke dalam format Excel (XLSX) untuk keperluan analisis. Data mencakup nama hotel, alamat, harga, dan detail lokasi yang kemudian diproses dan dianalisis.
 
